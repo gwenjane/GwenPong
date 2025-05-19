@@ -93,7 +93,7 @@ body {
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
   top: 0;
-  font-color: white;
+  color: white;
 }
 
 #left-score {
