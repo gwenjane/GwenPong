@@ -38,7 +38,7 @@ body {
   position: absolute;
   margin: 10px;
   font-family: Helvetica,Georgia, sans-serif;
-  font-color: white;
+  color: white;
 }
 
 #errors-debug {
