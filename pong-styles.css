@@ -4,6 +4,14 @@ Feel free to play with things like color or font
 */
 
 html,
+
+p {
+  font-color: white;
+  
+}
+
+
+
 body {
   padding: 10;
   margin: 0;
