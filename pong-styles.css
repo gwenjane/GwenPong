@@ -7,7 +7,7 @@ html,
 body {
   padding: 10;
   margin: 0;
-  background-color: #4d00000;
+  background-color: black;
         
 }
 #game {
@@ -38,6 +38,7 @@ body {
   position: absolute;
   margin: 10px;
   font-family: Helvetica,Georgia, sans-serif;
+  font-color: white;
 }
 
 #errors-debug {
@@ -92,7 +93,7 @@ body {
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
   top: 0;
-  background-color: white;
+  font-color: white;
 }
 
 #left-score {
