@@ -42,7 +42,7 @@ p {
 }
 
 #instructions {
-  display: none;
+  display: block;
   bottom: 0;
   position: absolute;
   margin: 10px;
