@@ -5,10 +5,7 @@ Feel free to play with things like color or font
 
 html,
 
-p {
-  font-color: white;
-  
-}
+
 
 
 
@@ -17,6 +14,10 @@ body {
   margin: 0;
   background-color: black;
         
+}
+p {
+ color: white;
+  
 }
 #game {
   margin: 4px;
